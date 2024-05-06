@@ -1,4 +1,14 @@
-### Hi there 👋
+👋 Hello there! I'm Baran Ağtaş, a software developer.
+
+💻 Currently, I'm working on Java and Spring Framework, but I'm interested in other technologies as well.
+
+📚 I'm always open to learning and improving myself. I enjoy exploring and experimenting with new technologies.
+
+🌱 Additionally, I value contributing to open-source projects and supporting the community.
+
+📫 You can reach me at baranagts@gmail.com.
+
+🔗 Feel free to check out my GitHub profile for more information!
 
 <!--
 **bagtas19/bagtas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
